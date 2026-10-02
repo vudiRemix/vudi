@@ -18,13 +18,13 @@ icon: smoking
 
 В зелёных ячейках используйте вам нужную траву.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### Сигарета
 
 В зелёных ячейках используйте вам нужный сорт табака
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Булик + Булик с гашишем
 
