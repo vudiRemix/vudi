@@ -3,7 +3,7 @@
 * [📝 Основная информация](README.md)
 * [🗝️ Регистрация](registration.md)
 * [🔐 Безопасность аккаунта](bezopasnost-akkaunta.md)
-* [📱 Telegram-бот](telegram-bot.md)
+* [Telegram-бот](telegram-bot.md)
 * [💡 Исправить Ресурс Пак](resource-pack.md)
 
 ## Развлечение(кроме лекарств <a href="#fun" id="fun"></a>
@@ -25,8 +25,6 @@
 * [Ежедневные задания](ekonomika/ezhednevnye-zadaniya.md)
 
 ## Towny
-
-***
 
 * [🏰 Город](towny-1.md)
 * [⚒️ Форма правлений](form.md)
