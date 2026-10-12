@@ -64,7 +64,7 @@ _Все цифры ниже — значения по умолчанию, адм
 
 ### Заблокированные команды
 
-**Во время подготовки и боя** заблокированы: `t/town withdraw`, `delete`, `claim`, `unclaim`, `n/nation withdraw`, `delete`, `t set mayor`, `n set king`, `n set capital`, `t trust`, `t set spawn`, `t set homeblock`. В боевой фазе дополнительно блокируются `plot toggle` и `t toggle`.
+**Во время подготовки, боя и паузы** обеим сторонам заблокированы: `t withdraw`, `t delete`, `t merge`, `t claim`, `t unclaim`, `t set mayor`, `t set spawn`, `t set homeblock`, `t toggle neutral`, `n withdraw`, `n delete`, `n merge`, `n set king`, `n set capital`, `etown withdraw`, `etown merge`. В боевой фазе дополнительно блокируются все `t toggle` и `plot toggle`. Запрет работает при любом написании команды (`/town`, `/nation`, заглавными буквами). `t trust`, `t set name` и `n set name` разрешены.
 
 ### Призыв союзника
 
