@@ -58,6 +58,7 @@
 ## 💊 ЛЕКАРСТВА
 
 * [Информация](lekarstva/informaciya.md)
+* [Эффекты веществ](lekarstva/effekty.md)
 * [Выращивание](lekarstva/vyrashivanie.md)
 * [Синтезирование и варка](lekarstva/sintezirovanie-i-varka.md)
 * [Брик пресс](lekarstva/brik-press.md)
